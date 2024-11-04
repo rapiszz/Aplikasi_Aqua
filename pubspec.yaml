@@ -1,0 +1,29 @@
+name: applicationaqua
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  material_design_icons_flutter: ^7.0.7296
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images_page1/gambaraquaproduct.png
+    - images_page1/gambargunung.png
+    - images_page1/logoaqua.png
+    - images_page1/VectorHiasan.png
+    - images_page2/AquaPage2.png
+    - images_page2/Background.png
+    - images_page2/IconLock.png
